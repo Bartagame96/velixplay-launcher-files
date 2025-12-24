@@ -9,12 +9,12 @@
 
   "mods": [
     {
-      "file": "fabric-api-0.102.0+1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/8K4p1Rj7/fabric-api-0.102.0+1.21.1.jar"
+      "file": "fabric-api.jar",
+      "url": "https://bartagame96.github.io/velixplay-launcher-files/mods/fabric-api.jar"
     },
     {
-      "file": "voicechat-fabric-1.21.1.jar",
-      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/AbCdEfGh/voicechat-fabric-1.21.1.jar"
+      "file": "simple-voice-chat.jar",
+      "url": "https://bartagame96.github.io/velixplay-launcher-files/mods/simple-voice-chat.jar"
     }
   ]
 }
