@@ -5,7 +5,7 @@
   "removeExtraMods": true,
   "configSync": true,
   "minecraftVersion": "1.21.4",
-  "fabricLoader": "0.16.9",
+  "fabricLoader": "0.16.10",
   "mods": [
     {
       "file": "fabric-api.jar",
